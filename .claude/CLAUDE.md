@@ -21,6 +21,12 @@
 - drafts/ → work in progress, ideas, style notes (public but not in book)
 - .claude/ → Claude notes
 
+## Workflow
+1. Experiment in drafts/ (content, style, structure)
+2. Discuss and refine with user
+3. Move to src/ when ready for publication
+4. drafts/ is public but NOT included in the book
+
 ## Public review rules
 
 This repo is PUBLIC. All content is visible including drafts/.
