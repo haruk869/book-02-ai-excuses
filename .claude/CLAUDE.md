@@ -48,3 +48,4 @@ Claude must:
 - Save as .svg (editable + version-controlled)
 - Place in src/images/
 - Embed: `![description](./images/figure.svg)`
+- External tools (DrawSQL, etc.): export DDL → import to draw.io → save as .svg
