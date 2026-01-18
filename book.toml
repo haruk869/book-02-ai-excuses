@@ -1,0 +1,13 @@
+[book]
+title = "AIの言い訳 ― AIは何を守っているのか"
+authors = ["haruk869"]
+language = "ja"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+git-repository-url = "https://github.com/haruk869/book-02-ai-excuses"
+edit-url-template = "https://github.com/haruk869/book-02-ai-excuses/edit/main/{path}"
