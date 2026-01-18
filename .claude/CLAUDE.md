@@ -42,3 +42,9 @@ Claude must:
 - Build: `mdbook build`
 - Serve: `mdbook serve`
 - Deploy: GitHub Actions → gh-pages branch
+
+## Diagrams
+- Use draw.io for technical diagrams
+- Save as .svg (editable + version-controlled)
+- Place in src/images/
+- Embed: `![description](./images/diagram.svg)`
