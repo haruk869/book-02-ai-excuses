@@ -6,11 +6,10 @@
 
 # Base rules
 
-- Response: Japanese
-- .claude content: English (unless source is Japanese)
-- User-facing docs: Japanese (in docs/)
-- No empty files/directories
-- Keep source URLs for version updates
+- Response/docs: Japanese (follow original language if non-Japanese)
+- .claude/ content: English, minimal, no decoration. Add notes only when ambiguous
+- Plans, skills: .claude/ (in repo)
+- No write outside repo without confirmation
 
 ---
 
